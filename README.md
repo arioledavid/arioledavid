@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arioledavid
-- 👀 I’m a web developer
-- 🌱 I’m interested full stack development 
+- 👀 I’m a Front end developer
+- 🌱 I’m also interested full stack development 
 - 💞️ I’m looking to collaborate on web development projects in javascript, python and any C/C++ applications
 - 📫 send me an email through davidariole@gmail.com
 
